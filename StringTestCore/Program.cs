@@ -34,7 +34,7 @@ namespace StringTestCore
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Results");
             Console.ResetColor();
-            foreach (var item in result.OrderBy(x => x.Value.Item1).OrderBy(x => x.Value.Item4).OrderBy(x => x.Value.Item5).OrderBy(x => x.Value.Item3))
+            foreach (var item in result.OrderBy(x => x.Value.Item1))
             {
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine(item.Value.Item2);
