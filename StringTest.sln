@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", "StringTest\StringTest.csproj", "{C87F8206-783D-43C9-897D-5D8BDF08A071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTestCore", "StringTestCore\StringTestCore.csproj", "{CC2A24E1-22A2-4869-A1E1-51B3136489B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTestCore", "StringTestCore\StringTestCore.csproj", "{CC2A24E1-22A2-4869-A1E1-51B3136489B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94DDFFE0-4FC5-4E60-80A9-AC1319EE118B}"
+	ProjectSection(SolutionItems) = preProject
+		license.txt = license.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
