@@ -6,11 +6,11 @@
 </br>
 </br>
 
-<p>Test Environment</p>
+<p><b>Test Environment</b></p>
 <p>CPU: Intel i7 6900K @ 4.29 GHz</p>
 <p>MEM: 64 GB</p>
 <p>SSD: Samsung 850 Pro NVE</p>
-<p>Windows 10 Pro (latest updates @ 19.10.2017)</p>
+<p>Windows 10 Pro x64 (latest updates @ 19.10.2017)</p>
 
 </br>
 </br>
@@ -178,11 +178,11 @@
 </table>
 
 </br>
-<p>Test Environment</p>
+<p><b>Test Environment</b></p>
 <p>CPU: Intel i5 4590 @ 3.30 GHz</p>
 <p>MEM: 16 GB</p>
 <p>SSD: Crucial SATA</p>
-<p>Windows 7 Pro SP1 (latest updates @ 23.10.2017)</p>
+<p>Windows 7 Pro SP1 x64 (latest updates @ 23.10.2017)</p>
 
 </br>
 </br>
