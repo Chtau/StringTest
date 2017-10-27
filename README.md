@@ -9,7 +9,7 @@
 <p><b>Test Environment</b></p>
 <p>CPU: Intel i7 6900K @ 4.29 GHz</p>
 <p>MEM: 64 GB</p>
-<p>SSD: Samsung 850 Pro NVE</p>
+<p>SSD: Samsung 960 Pro NVE</p>
 <p>Windows 10 Pro x64 (latest updates @ 19.10.2017)</p>
 
 </br>
